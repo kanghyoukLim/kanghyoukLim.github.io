@@ -1,7 +1,8 @@
-
-
-
-
+---
+layout: post
+title:  "Beginning is half done."
+published: true
+---
 
 어제는 포스팅 오류가 있었다. 엄밀히 얘기하면 오늘 새벽에 있었던 일이고, 아침에도 해결 하고자 했으나, 실패했다.  
 퇴근해서 어제 수정했던 코드 중 'baseurl'을 다시 주석처리했다.  
